@@ -34,5 +34,5 @@
 8. git merge master
  
 # Undo changes to a specific file
-git checkout -- <filename>
+git checkout -- \<filename>
 (use quotes if file name has spaces)

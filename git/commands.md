@@ -32,3 +32,7 @@
 6. git branch <branchName> origin/<branchname>
 7. git checkout <branchname>
 8. git merge master
+ 
+# Undo changes to a specific file
+git checkout -- <filename>
+(use quotes if file name has spaces)
